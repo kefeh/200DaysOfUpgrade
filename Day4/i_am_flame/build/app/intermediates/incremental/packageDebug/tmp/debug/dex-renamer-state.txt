@@ -1,0 +1,4 @@
+#Mon Aug 10 12:57:03 WAT 2020
+base.0=/Users/kefeh/200DaysOfUpgrade/Day4/i_am_flame/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
